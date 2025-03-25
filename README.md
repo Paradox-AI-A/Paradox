@@ -1,19 +1,49 @@
-```
+```ascii
+                      @@@@@@@@                     
+                  @@@@@@@@@@@@@@@@                 
+              @@@@@@@@@@@@@@@@@@@@@@@@             
+           @@@@@@@@@            @@@@@@@@@          
+         @@@@@@@                    @@@@@@@        
+       @@@@@@@                        @@@@@@@      
+      @@@@@@@                          @@@@@@@     
+     @@@@@@@         @@@@@@@@          @@@@@@@     
+    @@@@@@@      @@@@@@@@@@@@@@@@       @@@@@@@    
+   @@@@@@@     @@@@@@@@@@@@@@@@@@@@     @@@@@@@    
+   @@@@@@@    @@@@@@@        @@@@@@@    @@@@@@@    
+  @@@@@@@    @@@@@@@          @@@@@@@    @@@@@@@   
+  @@@@@@@    @@@@@@@          @@@@@@@    @@@@@@@   
+  @@@@@@@    @@@@@@@          @@@@@@@    @@@@@@@   
+  @@@@@@@    @@@@@@@          @@@@@@@    @@@@@@@   
+  @@@@@@@     @@@@@@@@      @@@@@@@@    @@@@@@@    
+   @@@@@@@     @@@@@@@@@@@@@@@@@@@@    @@@@@@@     
+   @@@@@@@      @@@@@@@@@@@@@@@@      @@@@@@@      
+    @@@@@@@        @@@@@@@@@@        @@@@@@@       
+     @@@@@@@                        @@@@@@@        
+      @@@@@@@                      @@@@@@@         
+       @@@@@@@                    @@@@@@@          
+         @@@@@@@                @@@@@@@            
+           @@@@@@@@@        @@@@@@@@@              
+              @@@@@@@@@@@@@@@@@@@@                 
+                  @@@@@@@@@@@@@@                   
+                      @@@@@@                       
+
  ______                     _           
 (_____ \                   | |          
  _____) )___ _ _ _ ____  __| | _____  __
 |  ____/ ___) | | |    \/ _  |(____ |/ /
 | |   | |   | | | | | | ( (_| / ___ |_| 
 |_|   |_|   |_|\_)_|_|_|\_)__|\_____(_) 
+
+PARADOX - Where Truth Bends
 ```
 
 # Paradox
 
 A reality-bending narrative experience where truth and fiction intertwine.
 
-Paradox is an immersive narrative experience platform that combines cutting-edge AI technology with digital crypto assets to explore the relationship between truth and lies.
+---
 
-![Paradox Logo](./public/images/paradox-logo.png)
+Paradox is an immersive narrative experience platform that combines cutting-edge AI technology with digital crypto assets to explore the relationship between truth and lies.
 
 ## About The Project
 
