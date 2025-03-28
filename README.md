@@ -1,7 +1,7 @@
 # Paradox
 
 <div align="center">
-  <img src="public/images/logo.png" alt="Paradox Logo" width="200" height="200" style="border-radius: 50%; background: black;">
+  <img src="https://github.com/Paradox-AI-A/Paradox/raw/main/public/images/logo.png" alt="Paradox Logo" width="200" height="200" style="border-radius: 50%; background: black;">
 </div>
 
 A reality-bending narrative experience where truth and fiction intertwine.
@@ -171,7 +171,7 @@ The Paradox platform implements a unidirectional data flow pattern to ensure pre
 ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
 │          │    │          │    │          │    │          │    │          │
 │   User   │───▶│  Login   │───▶│ API Call │───▶│  JWT     │───▶│  Auth    │
-│          │    │  Form    │    │          │    │ Creation │    │ Context  │
+│          │    │  Form    │    │          │    │          │    │          │
 │          │    │          │    │          │    │          │    │          │
 └──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘
                                                                       │
