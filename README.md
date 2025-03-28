@@ -1,6 +1,8 @@
 # Paradox
 
-![Paradox Logo](https://paradox-world.com/images/logo.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Paradox-AI-A/Paradox/main/public/images/logo.png" alt="Paradox Logo" width="200" height="200">
+</div>
 
 A reality-bending narrative experience where truth and fiction intertwine.
 
