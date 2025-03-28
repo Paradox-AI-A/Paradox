@@ -1,7 +1,7 @@
 # Paradox
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Paradox-AI-A/Paradox/main/public/images/logo.png" alt="Paradox Logo" width="200" height="200">
+  <img src="public/images/logo.png" alt="Paradox Logo" width="200" height="200" style="border-radius: 50%; background: black;">
 </div>
 
 A reality-bending narrative experience where truth and fiction intertwine.
