@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import MainLayout from '../components/layout/MainLayout';
 import Logo from '../components/common/Logo';
 
-// 定义组件 props 接口
+// Define component props interface
 interface FeatureCardProps {
   title: string;
   description: string;

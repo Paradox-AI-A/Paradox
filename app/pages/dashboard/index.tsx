@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import MainLayout from '../../components/layout/MainLayout';
 import { useAuth } from '../../contexts/AuthContext';
 
-// 定义类型
+// Define types
 interface UserStats {
   paradoxCoins: number;
   truthFragments: number;
@@ -284,7 +284,7 @@ const Dashboard: React.FC = () => {
   );
 };
 
-// 统计卡片组件
+// Statistics card component
 interface StatCardProps {
   title: string;
   value: number | string;
@@ -309,7 +309,7 @@ const StatCard: React.FC<StatCardProps> = ({ title, value, icon, description, de
   </motion.div>
 );
 
-// 活动项组件
+// Activity item component
 interface ActivityItemProps {
   activity: RecentActivity;
 }
